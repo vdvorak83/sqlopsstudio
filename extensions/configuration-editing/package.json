@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "jsonc-parser": "^1.0.0",
-    "vscode-nls": "^3.2.1"
+    "vscode-nls": "^3.2.5"
   },
   "contributes": {
     "jsonValidation": [
