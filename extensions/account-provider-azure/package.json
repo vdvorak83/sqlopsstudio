@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "adal-node": "0.1.25",
-    "request": "2.63.0",
+    "request": "2.76.0",
     "vscode-nls": "^3.2.1"
   },
   "devDependencies": {
