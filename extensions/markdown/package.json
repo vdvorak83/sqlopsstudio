@@ -273,7 +273,7 @@
 		"vscode:prepublish": "node ../../node_modules/gulp/bin/gulp.js --gulpfile ../../build/gulpfile.extensions.js compile-extension:markdown ./tsconfig.json"
 	},
 	"dependencies": {
-		"highlight.js": "9.5.0",
+		"highlight.js": "9.18.2",
 		"markdown-it": "^8.4.0",
 		"markdown-it-named-headers": "0.0.4",
 		"vscode-extension-telemetry": "0.0.15",
