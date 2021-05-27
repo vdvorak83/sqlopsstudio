@@ -63,7 +63,7 @@
     "spdlog": "0.6.0",
     "svg.js": "^2.2.5",
     "sudo-prompt": "^8.0.0",
-    "v8-inspect-profiler": "^0.0.7",
+    "v8-inspect-profiler": "^0.0.21",
     "vscode-chokidar": "1.6.2",
     "vscode-debugprotocol": "1.27.0",
     "vscode-ripgrep": "0.7.1-patch.0.1",
