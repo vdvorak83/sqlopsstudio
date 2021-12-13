@@ -76,7 +76,7 @@
         "postinstall": "node ./node_modules/vscode/bin/install && node ./node_modules/sqlops/bin/install && gulp copytypings"
     },
     "dependencies": {
-        "vscode-nls": "^3.2.2",
+        "vscode-nls": "^3.2.5",
         "fs-extra": "^5.0.0",
         "handlebars": "^4.0.11"
     },
