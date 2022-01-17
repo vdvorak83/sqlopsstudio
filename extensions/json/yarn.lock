@@ -34,26 +34,30 @@ vscode-extension-telemetry@0.0.15:
   dependencies:
     applicationinsights "1.0.1"
 
-vscode-jsonrpc@^3.6.0-next.1:
-  version "3.6.0-next.1"
-  resolved "https://registry.yarnpkg.com/vscode-jsonrpc/-/vscode-jsonrpc-3.6.0-next.1.tgz#3cb463dffe5842d6aec16718ca9252708cd6aabe"
+vscode-jsonrpc@6.0.0:
+  version "6.0.0"
+  resolved "https://registry.yarnpkg.com/vscode-jsonrpc/-/vscode-jsonrpc-6.0.0.tgz#108bdb09b4400705176b957ceca9e0880e9b6d4e"
+  integrity sha512-wnJA4BnEjOSyFMvjZdpiOwhSq9uDoK8e/kpRJDTaMYzwlkrhG1fwDIZI94CLsLzlCK5cIbMMtFlJlfR57Lavmg==
 
-vscode-languageclient@4.0.0-next.9:
-  version "4.0.0-next.9"
-  resolved "https://registry.yarnpkg.com/vscode-languageclient/-/vscode-languageclient-4.0.0-next.9.tgz#2a06568f46ee9de3490f85e227d3740a21a03d3a"
+vscode-languageclient@4.4.2:
+  version "4.4.2"
+  resolved "https://registry.yarnpkg.com/vscode-languageclient/-/vscode-languageclient-4.4.2.tgz#a341a7b4ac403e481f011ed4572854646e8968c4"
+  integrity sha512-9TUzsg1UM6n1UEyPlWbDf7tK1wJAK7UGFRmGDN8sz4KmbbDiVRh6YicaB/5oRSVTpuV47PdJpYlOl3SJ0RiK1Q==
   dependencies:
-    vscode-languageserver-protocol "^3.6.0-next.5"
+    vscode-languageserver-protocol "^3.10.3"
 
-vscode-languageserver-protocol@^3.6.0-next.5:
-  version "3.6.0-next.5"
-  resolved "https://registry.yarnpkg.com/vscode-languageserver-protocol/-/vscode-languageserver-protocol-3.6.0-next.5.tgz#ed2ec2db759826f753c0a13977dfb2bedc4d31b3"
+vscode-languageserver-protocol@^3.10.3:
+  version "3.16.0"
+  resolved "https://registry.yarnpkg.com/vscode-languageserver-protocol/-/vscode-languageserver-protocol-3.16.0.tgz#34135b61a9091db972188a07d337406a3cdbe821"
+  integrity sha512-sdeUoAawceQdgIfTI+sdcwkiK2KU+2cbEYA0agzM2uqaUy2UpnnGHtWTHVEtS0ES4zHU0eMFRGN+oQgDxlD66A==
   dependencies:
-    vscode-jsonrpc "^3.6.0-next.1"
-    vscode-languageserver-types "^3.6.0-next.1"
+    vscode-jsonrpc "6.0.0"
+    vscode-languageserver-types "3.16.0"
 
-vscode-languageserver-types@^3.6.0-next.1:
-  version "3.6.0-next.1"
-  resolved "https://registry.yarnpkg.com/vscode-languageserver-types/-/vscode-languageserver-types-3.6.0-next.1.tgz#98e488d3f87b666b4ee1a3d89f0023e246d358f3"
+vscode-languageserver-types@3.16.0:
+  version "3.16.0"
+  resolved "https://registry.yarnpkg.com/vscode-languageserver-types/-/vscode-languageserver-types-3.16.0.tgz#ecf393fc121ec6974b2da3efb3155644c514e247"
+  integrity sha512-k8luDIWJWyenLc5ToFQQMaSrqCHiLwyKPHKPQZ5zz21vM+vIVUSvsRpcbiECH4WR88K2XZqc4ScRcZ7nk/jbeA==
 
 vscode-nls@^3.2.1:
   version "3.2.1"
