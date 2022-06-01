@@ -13,7 +13,7 @@
     "vscode-json-languageservice": "^3.0.7",
     "vscode-languageserver": "4.0.0-next.3",
     "vscode-nls": "^3.2.1",
-    "vscode-uri": "^1.0.1"
+    "vscode-uri": "^1.0.8"
   },
   "devDependencies": {
     "@types/node": "7.0.43"
